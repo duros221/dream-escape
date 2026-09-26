@@ -184,4 +184,8 @@
 ## 11. 관련 문서
 
 - 게임기획서: `GAME_DESIGN.md`
+- 개발 정리: `DEV_SUMMARY.md` (경과·기술 구조·검증·배포)
+- 통합 Word 문서: `DreamEscape_개발정리.docx` (`build_docx.py`로 세 문서에서 생성)
 - 실행 파일: `dream_escape.html` (모든 수치는 파일 상단 `CFG`)
+- 리다이렉트: `index.html` (GitHub Pages 짧은 주소용, 게임 본체로 이동)
+- 저장소: https://github.com/duros221/dream-escape · 플레이: https://duros221.github.io/dream-escape/
